@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarahhashmi&label=Profile%20views&color=0e75b6&style=flat" alt="ammarahhashmi" /> </p>
 
-- 🔭 I’m currently working on **Multi-modal Transformer for Video Forgery Detection.**
+- 🔭 I’m currently working on **Multimedia Forensics.**
 
 - 👯 I’m looking to collaborate on **Media Forensics , Forgery Detection**
 
