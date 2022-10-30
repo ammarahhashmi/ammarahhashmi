@@ -4,14 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarahhashmi&label=Profile%20views&color=0e75b6&style=flat" alt="ammarahhashmi" /> </p>
 
+- 👨‍💻 My Research Interest includes: **Image Processing | Speech Processing | Multimedia Forensics | Deep Learning**
+
 - 🔭 I’m currently working on **Multimedia Forensics.**
 
-- 👯 I’m looking to collaborate on **Media Forensics , Forgery Detection**
-
-- 👨‍💻 Access [my Portfolio](https://ammarahhashmi.github.io) to know more about me.
+- 👯 I’m looking to collaborate on **Media Forensics/Forgery Detection.**
 
 - 📝 I write articles on [Medium](https://medium.com/@hashmiammarah), you're welcome to read.
 
+- 📄 If you want to know about my experiences, checkout [my Portfolio](https://ammarahhashmi.github.io).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
