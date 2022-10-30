@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Media Forensics , Forgery Detection**
 
-- 👨‍💻 Access [my Portfolio](https://ammarahhashmi.github.io)
+- 👨‍💻 Access [my Portfolio](https://ammarahhashmi.github.io) to know more about me.
 
-- 📝 I write articles on [Medium](https://medium.com/@hashmiammarah)
+- 📝 I write articles on [Medium](https://medium.com/@hashmiammarah), you're welcome to read.
 
 
 <h3 align="left">Connect with me:</h3>
