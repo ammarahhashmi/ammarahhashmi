@@ -28,6 +28,6 @@
 - Multimodal Forgery Detection Using Ensemble Learning [paper](https://homepage.iis.sinica.edu.tw/papers/whm/25388-F.pdf)   
 - Lip Sync Matters: A Novel Multimodal Forgery Detector [paper](https://homepage.iis.sinica.edu.tw/papers/whm/25387-F.pdf)  
 - A single smartwatch-based segmentation approach in human activity recognition [paper](https://www.sciencedirect.com/science/article/pii/S1574119222000402)    
-- ResViT: A Framework for Deepfake Videos Detection [paper](https://homepage.iis.sinica.edu.tw/papers/whm/25387-F.pdf)   
+- ResViT: A Framework for Deepfake Videos Detection [paper](https://ijeces.ferit.hr/index.php/ijeces/article/view/1543/224)   
 - An Intelligent Wellness Assessment System for the Elderly Healthcare [paper](https://www.researchgate.net/publication/336185401_An_Intelligent_Wellness_Assessment_System_for_the_Elderly_Healthcare)    
 -  A Survey on Vision-Based Hand Gesture Recognition [paper](https://link.springer.com/chapter/10.1007/978-3-030-04375-9_19)
