@@ -23,3 +23,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">Publications:</h3>
+
+- A single smartwatch-based segmentation approach in human activity recognition [paper](https://homepage.iis.sinica.edu.tw/papers/whm/25388-F.pdf)   
+- Multimodal Forgery Detection Using Ensemble Learning [paper](https://homepage.iis.sinica.edu.tw/papers/whm/25388-F.pdf)   
+- Lip Sync Matters: A Novel Multimodal Forgery Detector [paper](https://homepage.iis.sinica.edu.tw/papers/whm/25387-F.pdf)   
+- ResViT: A Framework for Deepfake Videos Detection [paper](https://homepage.iis.sinica.edu.tw/papers/whm/25387-F.pdf)   
+- An Intelligent Wellness Assessment System for the Elderly Healthcare [paper](https://www.researchgate.net/publication/336185401_An_Intelligent_Wellness_Assessment_System_for_the_Elderly_Healthcare)    
+-  A Survey on Vision-Based Hand Gesture Recognition [paper](https://link.springer.com/chapter/10.1007/978-3-030-04375-9_19)
