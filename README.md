@@ -28,6 +28,7 @@
 
 - SAVe: Self-Supervised Audio-visual Deepfake Detection Exploiting Visual Artifacts and Audio-visual Misalignment [paper](https://arxiv.org/pdf/2603.25140)
 - Understanding Audiovisual Deepfake Detection: Techniques, Challenges, Human Factors and Perceptual Insights [paper](https://www.researchgate.net/publication/385736967_Understanding_Audiovisual_Deepfake_Detection_Techniques_Challenges_Human_Factors_and_Perceptual_Insights)
+- How Good is ChatGPT at Audiovisual Deepfake Detection: A Comparative Study of ChatGPT, AI Models and Human Perception [paper](https://arxiv.org/pdf/2411.09266)
 - Unmasking Illusions: Understanding Human Perception of Audiovisual Deepfakes [paper](https://arxiv.org/pdf/2405.04097)
 - AVTENet: Audio-Visual Transformer-based Ensemble Network Exploiting Multiple Experts for Video Deepfake Detection [paper](https://arxiv.org/pdf/2310.13103.pdf)
 - AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection [paper](https://arxiv.org/pdf/2311.02733.pdf)
